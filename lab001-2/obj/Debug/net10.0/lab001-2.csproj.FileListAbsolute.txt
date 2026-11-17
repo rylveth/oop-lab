@@ -1,0 +1,14 @@
+/home/roza/RiderProjects/lab001-2/lab001-2/bin/Debug/net10.0/lab001-2
+/home/roza/RiderProjects/lab001-2/lab001-2/bin/Debug/net10.0/lab001-2.deps.json
+/home/roza/RiderProjects/lab001-2/lab001-2/bin/Debug/net10.0/lab001-2.runtimeconfig.json
+/home/roza/RiderProjects/lab001-2/lab001-2/bin/Debug/net10.0/lab001-2.dll
+/home/roza/RiderProjects/lab001-2/lab001-2/bin/Debug/net10.0/lab001-2.pdb
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/lab001-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/lab001-2.AssemblyInfoInputs.cache
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/lab001-2.AssemblyInfo.cs
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/lab001-2.csproj.CoreCompileInputs.cache
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/lab001-2.dll
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/refint/lab001-2.dll
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/lab001-2.pdb
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/lab001-2.genruntimeconfig.cache
+/home/roza/RiderProjects/lab001-2/lab001-2/obj/Debug/net10.0/ref/lab001-2.dll
